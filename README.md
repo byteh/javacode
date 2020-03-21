@@ -1,3 +1,8 @@
+=======
+# javacode
+learn some java by coding. 
+
+=======
 气象局会调用 WeatherBroadcaster （广播站）的 updateWeather方法，广播站需要把天气变化信息发布给听众。听众类型有小猫，小狗，以后还会有更多动物甚至机器人等。
 
 问题如何设计与实现updateWeather方法（不限于updateWeather方法）以达成对扩展开放对修改关闭呢？这其中的问题有哪些呢？

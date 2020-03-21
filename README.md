@@ -38,7 +38,7 @@ public class Dog {
 ------------------------------------------------------------------------------
 
 我的类图如下
-![image](http://note.youdao.com/yws/res/41859/ABDDDFE337584F5A827E9255B17D9A6B)
+![image](https://github.com/byteh/javacode/blob/master/weather/weather.jpg)
 
 WeatherBureau（气象局）通过依赖注入的方式握有抽象类IWeatherPublisher（天气发布渠道），而WeatherBroadcaster（天气广播站）是实现了天气发布能力的渠道之一，如果未来需要了，可以扩展支持其他的发布渠道，例如天气电视台、互联网天气发布等可以实现天气发布能力的。
 
